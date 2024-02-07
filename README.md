@@ -1,4 +1,4 @@
-# Libraray-System
+# Library-System
 
 Build on HTML  and JavaScript
 
